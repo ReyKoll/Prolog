@@ -1,0 +1,3 @@
+animal("deer", "land", 1000).
+animal("wolf", "forest", 500).
+animal("rabbit", "anywhere", 10000).
